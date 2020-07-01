@@ -1,2 +1,2 @@
-# Docs
-Project documentation, source material, tutorials, etc.
+# Projects
+Project data, documentation, source material, tutorials, etc.

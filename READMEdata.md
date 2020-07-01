@@ -1,9 +1,9 @@
-# Data
+# My datasets and where to find them
 Datasets, largely from historical source material. 
 
-View individual project documentation for details:
+View individual project data and documentation for details:
 
-[Epidemic Influenza in Philadelphia, 1918](../../../Docs/blob/master/influenza1918.md)
+[Epidemic Influenza in Philadelphia, 1918](https://github.com/cynthiaheider/projects/tree/master/influenza1918)
 
 Handbook of Settlements
 

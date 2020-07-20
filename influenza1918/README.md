@@ -1,4 +1,5 @@
 Documentation -- Epidemic Influenza in Philadelphia, 1918
+https://github.com/cynthiaheider/projects/tree/master/influenza1918
 
 This project consists of five (5) files:
 (1) .geojson file

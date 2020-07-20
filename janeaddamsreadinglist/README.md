@@ -1,6 +1,7 @@
 
 
 Documentation -- Jane Addams' Reading List
+https://github.com/cynthiaheider/projects/tree/master/janeaddamsreadinglist
 
 This project consists of two (2) files: (1) .csv file (1) .txt file (documentation)
 

@@ -9,6 +9,6 @@ Handbook of Settlements
 
 1795 Philadelphia City Directory ("Prospect of Philadelphia")
 
-Warrantees of Land in the County of Philadelphia, 1733-1866
+[Warrantees of Land in the County of Philadelphia, 1733-1866](https://github.com/cynthiaheider/projects/tree/master/philadelphiawarrantees)
 
 [Jane Addams' Reading List](https://github.com/cynthiaheider/projects/tree/master/janeaddamsreadinglist)

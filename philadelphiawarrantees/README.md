@@ -9,6 +9,7 @@ I scraped the first chapter of this volume ("Warrantees of Land in the County of
 The columns of the CSV include:
 1. Original sort order (as listed in the printed volume)
 2. Names (arranged Last name, First name, Title). Often this indicates one person, but maybe indicate multiple warrantees.
-3. Month and day of land survey
-4. Year of land survey
+3. Acres. Often in numeric quantity, but sometimes "city lot," "bank lot," "Liberty land," and other qualifiers. "Null" indicates entries where a value was not given.
+4. Month and day of land survey
+5. Year of land survey
 

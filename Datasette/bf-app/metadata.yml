@@ -1,0 +1,27 @@
+title: Demonstrating Metadata from YAML
+description_html: |-
+  <p>This description includes a long HTML string</p>
+  <ul>
+    <li>YAML is better for embedding HTML strings than JSON!</li>
+  </ul>
+license: CC Attribution 4.0 License
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+source: American Philosophical Society
+source_url: "https://www.amphilsoc.org/"
+about: About this data
+about_url: "https://www.amphilsoc.org/"
+databases:
+  fixtures:
+    tables:
+      no_primary_key:
+        hidden: true
+    queries:
+      person_search:
+        sql: |-
+          select transactions.date, uniques.fullname, transactions.account_id, shoprole.role, transactions.value_poundsshillingspence, transactions.paid
+          from transactions
+          inner join uniques on transactions.unique_id = uniques.id
+          inner join shoprole on shoprole.id = transactions.shoprole_id;
+        title: Search people
+        description_html: |-
+          <p>A search

@@ -4,7 +4,7 @@ Project data, documentation, source material, tutorials, etc.
 ## In this folder, you'll find documentation and data files that I have created, including:
 - [Epidemic Influenza in Philadelphia, 1918](https://github.com/cynthiaheider/projects/tree/master/influenza1918)
 - [Warrantees of Land in the County of Philadelphia, 1733-1866](https://github.com/cynthiaheider/projects/tree/master/philadelphiawarrantees)
-- [Jane Addams' Reading List](Jane Addams' Reading List)
+- [Jane Addams' Reading List](https://github.com/cynthiaheider/projects/tree/master/janeaddamsreadinglist)
 - [Pennsylvania Historical Markers: Black music and entertainment history in Philadelphia](https://github.com/cynthiaheider/projects/tree/master/PAhistoricmarkers)
  
  ## Other datasets that I have created or contributed to:
